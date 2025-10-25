@@ -91,7 +91,7 @@ function Header() {
             <a 
               href="AqibResume.pdf" 
               className="btn btn-download"
-              download="AqibResume.pdf"
+              download="qibResume.pdf"
             >
               Download CV
             </a>
