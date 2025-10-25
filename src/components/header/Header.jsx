@@ -89,9 +89,9 @@ function Header() {
             </ul>
             
             <a 
-              href="Aqib Resume.pdf" 
+              href="AqibResume.pdf" 
               className="btn btn-download"
-              download="Aqib Resume.pdf"
+              download="AqibResume.pdf"
             >
               Download CV
             </a>
